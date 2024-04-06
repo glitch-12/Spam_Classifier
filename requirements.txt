@@ -1,4 +1,3 @@
 Streamlit
 nltk
-nltk==x.x.x
 scikit-learn
