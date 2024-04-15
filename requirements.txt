@@ -1,3 +1,4 @@
 Streamlit
 nltk
 scikit-learn
+wordcloud
